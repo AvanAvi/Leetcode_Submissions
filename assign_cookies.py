@@ -18,4 +18,4 @@ def findContentChildren(greed,size):
 
 
 
-print(findContentChildren([1,2,3],[1,2]))
+print(findContentChildren([1,2,3],[1,1]))
